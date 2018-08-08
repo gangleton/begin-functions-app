@@ -1,0 +1,7 @@
+{
+  "name": "prayer-w3q-get-piepie",
+  "dependencies": {
+    "@architect/functions": "latest",
+    "@begin-functions/data": "latest"
+  }
+}
